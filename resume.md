@@ -62,10 +62,3 @@ Awards: Dean’s Honor List, President’s Honor List
 
 ## Projects
 
-
-
-
-
-## Links
-
-<a href="https://github.com/gonsie/Cthulu-Resume"><span class="octicon octicon-mark-github" style="position: relative; color: black; margin: 3px;"></span>Find This on GitHub</a>
