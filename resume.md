@@ -56,7 +56,7 @@ Cerritos, CA <span>May 2017&ndash;Present</span>
 
 ### **California State University, Long Beach** 
 Bachelor of Science in Computer Science; 3.354 GPA  
-Long Beach, CA August 2015 – Present (Expected Graduation: December 2019) 
+Long Beach, CA August 2015 – Present (Expected Graduation: December 2019)
 Awards: Dean’s Honor List, President’s Honor List
 
 
